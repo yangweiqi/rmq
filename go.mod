@@ -1,4 +1,4 @@
-module github.com/adjust/rmq/v5
+module github.com/yangweiqi/rmq/v5
 
 go 1.17
 
